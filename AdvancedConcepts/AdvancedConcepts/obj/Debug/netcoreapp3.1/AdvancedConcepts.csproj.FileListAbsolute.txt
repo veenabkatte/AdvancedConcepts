@@ -1,0 +1,16 @@
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.csproj.AssemblyReference.cache
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.AssemblyInfoInputs.cache
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.AssemblyInfo.cs
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.csproj.CoreCompileInputs.cache
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\bin\Debug\netcoreapp3.1\AdvancedConcepts.exe
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\bin\Debug\netcoreapp3.1\AdvancedConcepts.deps.json
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\bin\Debug\netcoreapp3.1\AdvancedConcepts.runtimeconfig.json
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\bin\Debug\netcoreapp3.1\AdvancedConcepts.runtimeconfig.dev.json
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\bin\Debug\netcoreapp3.1\AdvancedConcepts.dll
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\bin\Debug\netcoreapp3.1\AdvancedConcepts.pdb
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.csproj.CopyComplete
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.dll
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.pdb
+E:\github_jk\self\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\AdvancedConcepts\obj\Debug\netcoreapp3.1\AdvancedConcepts.genruntimeconfig.cache

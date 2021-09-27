@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bllhc1+1hxwiPNCluOfAXRFfvVx6qSfVPE4oafu5RW06TQl2l6Q79jc3sc2re4Zmk7er6Mz9CXi8A02gj6knyw==",
+  "success": true,
+  "projectFilePath": "E:\\github_jk\\self\\AdvancedConcepts\\AdvancedConcepts\\AdvancedConcepts\\AdvancedConcepts\\AdvancedConcepts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
